@@ -6,4 +6,4 @@ add_subdirectory(wfslib)
 
 add_subdirectory(wfs-extract)
 add_subdirectory(wfs-file-injector)
-#add_subdirectory(wfs-fuse)
+add_subdirectory(wfs-fuse)
