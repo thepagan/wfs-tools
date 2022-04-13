@@ -16,6 +16,3 @@ target_link_libraries(wfs-fuse
     PRIVATE
         wfslib
 )
-
-if 
-target_link_libraries(myLib -static-libgcc -static-libstdc++)
